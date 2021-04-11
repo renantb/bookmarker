@@ -32,4 +32,4 @@ Just download and open index.html. It is all client side
 - Dark Mode
 
 
-Made by Renan
+Made with ♥ by [Renan](https://github.com/renantb)
