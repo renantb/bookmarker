@@ -2,19 +2,6 @@
 
 Simple application for bookmarking webistes. This app goes along with the "Learn JavaScript By Building A Bookmarking App" tutorial. It uses localStorage for storing bookmarks. This project was build with vanilla Javascript
 
-
-
-<h1 align="center">
-  <img alt="normal" title="bookmarker" src="images/bookmarker.png" width="200px" />
-</h1>
-
-<h1>Dark Mode</h1>
-
-<h1 align="center">
-  <img alt="dark" title="bookmarker dark" src="images/bookmarkerblack.png" width="200px" />
-</h1>
-
-
 ### Version
 1.0.0
 
@@ -43,6 +30,17 @@ Just download and open index.html. It is all client side
 - Removed the function fetchBookmarks on html (onload="fetchBookmarks")
 - Use forEach and filter instead the loop for
 - Dark Mode
+
+<h1 align="center">
+  <img alt="normal" title="bookmarker" src="images/bookmarker.png" width="100%" />
+</h1>
+
+<h1>Dark Mode</h1>
+
+<h1 align="center">
+  <img alt="dark" title="bookmarker dark" src="images/bookmarkerblack.png" width="100%" />
+</h1>
+
 
 
 Made with ♥ by [Renan](https://github.com/renantb)
