@@ -26,9 +26,9 @@ Just download and open index.html. It is all client side
 
 ### Main changes from the original project:
 
-- I use the most updated version of Javascript (ES6, ES7, ES8)
-- Removed the function fetchBookmarks on html (onload="fetchBookmarks")
-- Use forEach and filter instead the loop for
+- Use the most updated version of Javascript (ES6, ES7, ES8)
+- Remove the function fetchBookmarks on HTML (onload="fetchBookmarks")
+- Use forEach and filter instead of the for loop,
 - Dark Mode
 
 <h1 align="center">
